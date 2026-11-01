@@ -1,0 +1,19 @@
+# Dependencies (Backend & Frontend node_modules)
+node_modules/
+ai-chat-backend/node_modules/
+ai-chat-frontend/node_modules/
+
+# Environment variables & Secrets
+.env
+.env.local
+ai-chat-backend/.env
+ai-chat-frontend/.env
+
+# Build outputs
+dist/
+dist-ssr/
+ai-chat-frontend/dist/
+
+# System junk / Mac files
+.DS_Store
+Thumbs.db
