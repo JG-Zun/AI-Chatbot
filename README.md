@@ -83,8 +83,8 @@ Step 2: Start the Frontend Client
 In your frontend terminal (ai-chat-frontend/):
 
 npm run dev
+```
 
 Vite will start the development server at http://localhost:5173.
 
 Open http://localhost:5173 in your browser to start chatting!
-```
